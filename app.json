@@ -36,6 +36,10 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "entryPoint": "./app/index.tsx",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android", "web"],  
+    "assetBundlePatterns": ["**/*"]
   }
 }
